@@ -1,0 +1,3 @@
+[submodule "movie-backend"]
+	path = movie-backend
+	url = https://github.com/jorgeart81/movie-backend.git
